@@ -17,7 +17,7 @@ Special thanks in advance to all contributors. We sincerely thank you all.
 ## Installation and modification
 If you have git installed, clone the repository with:
 ```
-git clone https://github.com/IPardelo/ia-library.git
+git clone https://github.com/IPardelo/ai-library.git
 ```
 
 
@@ -26,4 +26,4 @@ git clone https://github.com/IPardelo/ia-library.git
 
 >A project made by [Ismael Casti&ntilde;eira](https://github.com/IPardelo/)
 
-[0]: https://ipardelo.github.io/ia-library/
+[0]: https://ipardelo.github.io/ai-library/
