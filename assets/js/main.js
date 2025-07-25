@@ -405,7 +405,15 @@
         ["diseño", "Figma AI", "Funcionalidades de IA para diseño de interfaces de usuario.", "https://www.figma.com/ai/"],
         ["asistente", "ChatSpot", "Asistente de IA para ventas y marketing.", "https://chatspot.ai/"],
         ["automatizacion", "Kommunicate", "Plataforma de chat en vivo y chatbots para atención al cliente.", "https://www.kommunicate.io/"],
-        ["imagen", "Adobe Express", "Herramienta de diseño gráfico online con plantillas y funciones de IA.", "https://www.adobe.com/express/"]
+        ["imagen", "Adobe Express", "Herramienta de diseño gráfico online con plantillas y funciones de IA.", "https://www.adobe.com/express/"],
+        ["programacion asistente productividad", "v0.dev", "Una herramienta de Vercel que genera diseños de interfaz de usuario y código (React, Tailwind CSS) a partir de descripciones en lenguaje natural o imágenes, funcionando como un asistente de IA para el desarrollo front-end y el diseño.", "v0.dev"],
+        ["programacion productividad", "RandomA11y", "Una herramienta que genera combinaciones de colores aleatorias y accesibles para diseño web, garantizando el cumplimiento de los estándares de contraste WCAG.", "https://randoma11y.com/"],
+        ["imagen productividad", "Stills", "Una plataforma de licencia de fotografía con imágenes de alta calidad, seleccionadas de fotógrafos relevantes, orientada a diseñadores y creativos.", "https://www.stills.com/"],
+        ["imagen multimedia", "Dupe Photos", "Una plataforma de imágenes y videos de stock libres de derechos, con un enfoque en contenido 'aesthetic' y socialmente identificable para la industria creativa.", "https://dupephotos.com/"],
+        ["imagen productividad", "Typeverything", "Una fundición tipográfica especializada en el desarrollo de fuentes de visualización, que ofrece un catálogo de fuentes diseñadas por creadores independientes para diversos proyectos.", "https://typeverything.com/"],
+        ["imagen multimedia divertido", "Type face animator", "Una herramienta para crear animaciones tipográficas personalizadas de forma rápida y sencilla, con plantillas y opciones para ajustar texto, tamaño y colores.", "https://typeverything.com/"],
+        ["imagen productividad", "AreaMockups", "Ofrece mockups de alta calidad para presentar diseños de forma profesional.", "https://areamockups.com/"],
+        ["imagen multimodal arquitectura", "3d hunyuan", "Una herramienta de Tencent Hunyuan AI que permite generar modelos 3D a partir de indicaciones o descripciones, transformando conceptos en objetos tridimensionales.", "https://3d.hunyuan.tencent.com/"]
     ];
 
 	generarFiltros(arrayFiltros);
